@@ -1,10 +1,8 @@
-### Repositorio prueba
-
-IEXE Repositorio prueba 
+### Repositorio IEXE
 
 #### Actividades GIT
 
-Ejercicios de git
+Ejercicios
 
 ![mintty.2021-10-22_02-05-35.png](https://github.com/JLjimenez85/test-git/blob/master/images/mintty.2021-10-22_02-05-35.png)
 
